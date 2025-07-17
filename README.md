@@ -14,7 +14,7 @@
   
 ## 📫 Contact Me
 - ✉️ Email: prathameshzanzane13@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/prathamesh1313/)
+- 🔗 [LinkedIn]:(https://www.linkedin.com/in/prathamesh1313/)
 
 🎉 Thank You for Visiting!
 🔔 Star this repo if you like my work & feel free to contribute! 🌟
