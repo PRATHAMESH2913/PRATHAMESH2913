@@ -10,7 +10,7 @@
 - [Clustering Solar energy production zone]
 - [Predicting Appliance energy consumption in Households]
 - [Credit score Classification]
-- [Salary Range Pridiction]:(https://github.com/PRATHAMESH2913/Clustering-Solar-energy-production-zone)
+- [Salary Range Pridiction](https://github.com/PRATHAMESH2913/Clustering-Solar-energy-production-zone)
   
 ## 📫 Contact Me
 - ✉️ Email: prathameshzanzane13@gmail.com  
