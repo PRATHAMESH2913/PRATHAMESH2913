@@ -11,7 +11,7 @@
 - [Predicting Appliance energy consumption in Households]
 - [Credit score Classification]
 - [Salary Range Pridiction]
-- [RedBus Data Decode HACKATHON Decode 2025]
+- [RedBus Data Decode HACKATHON Decode 2025](https://github.com/PRATHAMESH2913/RedBus-Data-Decode-Hackathon2025)
   
 ## 📫 Contact Me
 - ✉️ Email: prathameshzanzane13@gmail.com  
