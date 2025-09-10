@@ -11,6 +11,8 @@
 - [Predicting Appliance energy consumption in Households]
 - [Credit score Classification]
 - [Salary Range Pridiction]
+- [Supernova Cosmology ]
+  - [Tracking the International Space Station (ISS)]
 - [RedBus Data Decode HACKATHON Decode 2025](https://github.com/PRATHAMESH2913/RedBus-Data-Decode-Hackathon2025)
   
 ## 📫 Contact Me
